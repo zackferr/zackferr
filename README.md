@@ -16,12 +16,12 @@
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   </p>
 
-  <h3>📊 My Programming Stats (Let’s see how fast I am!)</h3>
-  <a href="https://github.com/[YourName]">
+  <h3>📊 My Programming Stats</h3>
+  <a href="https://github.com/zackferr">
     <img height="180" src="https://github-readme-stats.vercel.app/api/?username=zackferr&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
   </a>
 
-  <a href="https://github.com/[YourName]">
+  <a href="https://github.com/zackferr">
     <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zackferr&layout=compact&langs_count=10&theme=gruvbox"/>
   </a>
 
