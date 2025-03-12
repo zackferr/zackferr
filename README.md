@@ -18,11 +18,11 @@
 
   <h3>📊 My Programming Stats</h3>
   <a href="https://github.com/zackferr">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/?username=zackferr&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+    <img height="180" src="https://github-readme-stats.vercel.app/api/?username=zackferr&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   </a>
 
   <a href="https://github.com/zackferr">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zackferr&layout=compact&langs_count=10&theme=gruvbox"/>
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zackferr&layout=compact&langs_count=10&theme=github_dark"/>
   </a>
 
   <h3>🐢 My Specialties</h3>
